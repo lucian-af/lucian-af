@@ -34,7 +34,7 @@
 <br/>
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucian-af& show_icons=true&locale=en" alt="lucian-af" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucian-af&show_icons=true&locale=pt-br&theme=gotham" alt="lucian-af" />
 </p>
 
 <h2>Saiba mais:</h2>
