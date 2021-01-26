@@ -37,6 +37,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucian-af&show_icons=true&locale=pt-br&theme=gotham" alt="lucian-af" />
 </p>
 
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucian-af&show_icons=true&locale=pt-br&theme=tokyonight " />
+</p>
+
 <h2>Saiba mais:</h2>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucian-af)](https://github.com/lucian-af/)
