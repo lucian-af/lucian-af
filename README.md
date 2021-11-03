@@ -1,5 +1,4 @@
 <h1 align="center">Bem vindo! Eu sou o Lucian...</h1> 
-<h3 align="center">Desenvolvedor FrontEnd em Formação!</h3>
 
 <h3 align="center">Linguagens e Ferramentas que tenho usado ultimamente</h3>
 <p align="center">
