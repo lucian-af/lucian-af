@@ -32,16 +32,17 @@
 </p>
 <br/>
 
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucian-af&show_icons=true&locale=pt-br&theme=gotham" alt="lucian-af" />
-</p>
+<div align="center">  
+    <a href="https://github.com/lucian-af">
+    <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=lucian-af&show_icons=true&locale=pt-br&theme=gotham" alt="lucian-af" />
+      &nbsp;
+    <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucian-af&layout=compact&langs_count=5&theme=tokyonight&locale=pt-br" />  
+</div>
 
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucian-af&show_icons=true&locale=pt-br&theme=tokyonight " />
-</p>
+<div align="center">
+  <h2>Formas de entrar em contato comigo:</h2>
 
-<h2>Saiba mais:</h2>
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucian-af)](https://github.com/lucian-af/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianaf-ti/)](https://www.linkedin.com/in/lucianaf-ti/)
-[![Linkedin Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:lucian_af@hotmail.com)](mailto:lucian_af@hotmail.com)
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucian-af)](https://github.com/lucian-af/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianaf-ti/)](https://www.linkedin.com/in/lucianaf-ti/)
+  [![Linkedin Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:lucian_af@hotmail.com)](mailto:lucian_af@hotmail.com)
+</div>
