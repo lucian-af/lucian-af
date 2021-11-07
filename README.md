@@ -32,8 +32,7 @@
 </p>
 <br/>
 
-<div align="center">  
-    <a href="https://github.com/lucian-af">
+<div align="center">    
     <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=lucian-af&show_icons=true&locale=pt-br&theme=gotham" alt="lucian-af" />
       &nbsp;
     <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucian-af&layout=compact&langs_count=5&theme=tokyonight&locale=pt-br" />  
